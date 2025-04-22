@@ -1,14 +1,20 @@
-Implement this design in an app using Flutter, using widgets that we take on the lesson this week.
+# coffee_shop_app
 
-<img width="873" alt="Screenshot 2025-04-16 at 4 59 18 PM" src="https://github.com/user-attachments/assets/d9db63aa-89a9-4b91-9b17-9095f54429d3" />
+A new Flutter project.
 
-### Note:
-- The blue arrow means, when the user clicked.
-- use `GridView.count()` widget, and create **Custom widget** for the card *that shown in second page*.
-- upload GIF or video for your app.
-- if you upload GIF, upload it in README file.
+## Getting Started
 
-Submission details:
-Deadline **Tuesday - 22 April** submission format: provide your flutter code file(s) in you personal repo.
+This project is a starting point for a Flutter application.
 
-Good luck 🚀 and happy coding! 🧑‍💻
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## 🎥 العرض التوضيحي
+
+[اضغط هنا لمشاهدة العرض التوضيحي](https://drive.google.com/file/d/1AL2sBtwNQ-FQcmYFtgaVBxNX63R73gPE/view?usp=drive_link)
